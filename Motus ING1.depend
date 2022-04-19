@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1575649124 source:e:\motus ing1\dico.c
+	"dico.h"
+
+1577303359 source:e:\motus ing1\main.c
+	"notreBiblio.h"
+
+1575304927 e:\motus ing1\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1575280140 source:e:\motus ing1\exe.c
+	"dico.h"
+	<myconio.h>
+
+1578527078 source:e:\motus ing1\modedujeu.c
+	"notreBiblio.h"
+
+1578526261 source:e:\motus ing1\notrebiblio.c
+	"notreBiblio.h"
+
+1577299338 e:\motus ing1\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1578680765 source:c:\users\rachid\desktop\projet c final\main.c
+	"sauvgarde_charge.h"
+	"notreBiblio.h"
+
+1578586654 c:\users\rachid\desktop\projet c final\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1578691645 source:c:\users\rachid\desktop\projet c final\notrebiblio.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1578684583 c:\users\rachid\desktop\projet c final\sauvgarde_charge.h
+	<dirent.h>
+
+1578685816 source:c:\users\rachid\desktop\projet c final\modedujeu.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1578689493 source:c:\users\rachid\desktop\projet c final\sauvgarde_charge.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1578680765 source:c:\users\madani mountasser\desktop\projet c final\main.c
+	"sauvgarde_charge.h"
+	"notreBiblio.h"
+
+1578684583 c:\users\madani mountasser\desktop\projet c final\sauvgarde_charge.h
+	<dirent.h>
+
+1578586654 c:\users\madani mountasser\desktop\projet c final\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1578685816 source:c:\users\madani mountasser\desktop\projet c final\modedujeu.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1580137009 source:c:\users\madani mountasser\desktop\projet c final\notrebiblio.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1578691732 source:c:\users\madani mountasser\desktop\projet c final\sauvgarde_charge.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1578680765 source:c:\users\madani mountasser\desktop\cours\projet c final\main.c
+	"sauvgarde_charge.h"
+	"notreBiblio.h"
+
+1578684583 c:\users\madani mountasser\desktop\cours\projet c final\sauvgarde_charge.h
+	<dirent.h>
+
+1578586654 c:\users\madani mountasser\desktop\cours\projet c final\notrebiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1578685816 source:c:\users\madani mountasser\desktop\cours\projet c final\modedujeu.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1580137009 source:c:\users\madani mountasser\desktop\cours\projet c final\notrebiblio.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+
+1578691732 source:c:\users\madani mountasser\desktop\cours\projet c final\sauvgarde_charge.c
+	"notreBiblio.h"
+	"sauvgarde_charge.h"
+

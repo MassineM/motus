@@ -1,0 +1,27 @@
+	
+		==>REGLE DU JEU <==
+
+La regle de MOTUS est assez simple, vous devez 
+trouver un mot, en un certain nombre d'essais,
+et dans un temps donne.
+Pour ce faire, MOTUS vous donne la premiere lettre 
+et vous indique si les lettres que vous avez saisies 
+sont dans le mot a trouver.
+
+1) Entrez votre proposition, les lettres de votre mot 
+    s'affichent en bas de l'ecran.
+    Vous devez entrer votre mot avant la fin du 
+    chronometre situe sur votre panneaude controle.
+2) MOTUS analyse votre proposition, trois possibilites :
+  - >La couleur des lettres s'eclaire en jaune, cela 
+       signifie que ces lettres sont presentes dans
+       le mot, mais ne sont pas a la bonne place.
+  -> La couleur des lettres s'eclaire en vert, cela 
+       signifie que ces lettres sont presentes et bien
+       placées (vous constaterez d'ailleurs que sur les 
+       lignes suivantes ces lettres seront deja positionnees).
+  -> Si la couleur de lettre ne s'eclaire pas, ces 
+       lettres ne sont pas dans le mot.
+3) Pour la bonne reponse, la partie s'arrete.
+4) Si vous jouez a deux, chacun d'entre vous joue 
+    apres l'autre, apres chaque proposition.

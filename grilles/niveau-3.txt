@@ -1,0 +1,3 @@
+﻿dico 9
+nombre des lettres visibles 3
+crono 10s

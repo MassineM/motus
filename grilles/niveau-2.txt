@@ -1,0 +1,3 @@
+﻿dico 7
+nombre lettre visible 2
+crono 10s
